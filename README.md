@@ -18,7 +18,7 @@ const weth = contract(wethArtifact);
 ```
 
 ## Deployed contract addresses
-- Lukso Testnet:
+- Lukso Testnet: 0x49B4FEFfA4AFa8857979350556Db611c72370554 https://explorer.execution.l16.lukso.network/address/0x49B4FEFfA4AFa8857979350556Db611c72370554/transactions
 - Lukso Mainnet:
 - Mainnet: [0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)
 - Kovan: [0xd0a1e359811322d97991e03f863a0c30c2cf029c](https://kovan.etherscan.io/address/0xd0a1e359811322d97991e03f863a0c30c2cf029c)
